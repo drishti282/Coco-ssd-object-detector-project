@@ -1,0 +1,20 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/d1/04/d8/d104d80a5b309b003a5b6c4a0c55a142.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.header {
+  font-family: "Caveat", cursive;
+  color: white;
+  font-size: 70;
+}
+
+.btn {
+  color: white;
+  font-size: 25px;
+  background-color: transparent;
+  border: 3px white solid;
+  border-radius: 100px;
+}
